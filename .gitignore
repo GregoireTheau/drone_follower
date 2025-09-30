@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# ----------------------------------------------------
+# Fichiers spécifiques au projet Drone Follower
+# ----------------------------------------------------
+
+# Les datasets VisDrone (très volumineux)
+data/
+
+# Les poids du modèle entraîné par YOLO (fichiers .pt ou .weights)
+models/
