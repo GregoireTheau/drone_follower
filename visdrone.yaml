@@ -1,5 +1,5 @@
 # YOLOv8 custom config for VisDrone-DET
-path: /data/yolo_format # Racine du dataset (relative à l'endroit où vous lancez l'entraînement)
+path: data/yolo_format # Racine du dataset (relative à l'endroit où vous lancez l'entraînement)
 train: train # Train images dir
 val: val # Val images dir
 
